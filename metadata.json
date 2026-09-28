@@ -1,0 +1,6 @@
+{
+  "name": "OIML R-76 NAWI Test Report System",
+  "description": "Automated Type Evaluation, Error Calculation & Test Report Generation System for Non-Automatic Weighing Instruments as per OIML Recommendation R-76 and Legal Metrology Act.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
